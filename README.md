@@ -1,7 +1,8 @@
 # Tunnel
 
-# Installation
-npm i
+#How to use
 
-# To start
-canvas-sketch sketches/app.js --open
+Clone this repo and then in command line type:
+
+* `npm install` - install all dependencies
+* `canvas-sketch sketches/app.js --open` - run dev-server
