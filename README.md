@@ -1,7 +1,7 @@
 # Tunnel
 
-#Installation:
+# Installation
 npm i
 
-#To start
+# To start
 canvas-sketch sketches/app.js --open
